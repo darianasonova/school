@@ -1,0 +1,14 @@
+table {
+    table-layout: fixed;
+    width: 50%;
+    border: 1px transparent rgb(132, 129, 129);
+  }
+  th, td {
+    padding: 15px;
+  }
+body {
+    background-color: rgba(237, 212, 181, 0.799);
+}
+img {
+    border: 1px solid rgb(70, 37, 20);
+}
